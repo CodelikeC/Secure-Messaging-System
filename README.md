@@ -198,7 +198,7 @@ It is NOT production-ready and has not undergone a professional external securit
 
 # License
 
-This project is released under the MIT License.
+This project is released under the GPL-3.0 License.
 
 ---
 
